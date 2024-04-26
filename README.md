@@ -28,7 +28,7 @@ real-life racial violence amidst global crisis.
 
 
 ## Data:
-- Original YouTube news video urls and raw comments can be found [here](https://uchicago.box.com/s/nl7a54g7ep8pqpfox8ypk59b67be62le)
+- Original YouTube news video urls and raw comments can be found in [box drive](https://uchicago.box.com/s/nl7a54g7ep8pqpfox8ypk59b67be62le)
 - Preprocessed comments with LLM calculated hate score can be found [here](https://github.com/yuzhouw313/thesis_clean/blob/main/Data/scored_china.csv)
 - Sentiment labed comments by gpt-3.5 turbo model can be found [here](https://github.com/yuzhouw313/thesis_clean/blob/main/Data/china_sentiment_df.csv)
 - Infection cases of corornavirus from 2020 to 2021 can be found [here](https://github.com/yuzhouw313/thesis_clean/blob/main/Data/confirmed_cases.csv)
